@@ -1,0 +1,32 @@
+.MyNavbar{
+   background-color: white; 
+   box-shadow: -1px 7px 8px 3px rgba(197,235,237,0.4);
+}
+.hNav {
+  margin-left: 1rem;
+}
+#small {
+  color: rgb(227, 227, 230);
+  margin-left: 1rem;
+  font-size: 1.4rem;
+}
+.circleSpan {
+  width: 35px;
+  height: 35px;
+  background-color: rgb(227, 227, 230);
+  font-size: 1rem;
+}
+.iconsSize {
+  font-size: larger;
+}
+.Ask{
+margin: 0.5rem;
+font-size: large;
+}
+.linkDiv{
+    margin-left: 35rem;
+}
+.mybtn :hover{
+  color: blue;
+  font-weight: bolder;
+}

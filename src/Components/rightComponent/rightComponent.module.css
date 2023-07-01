@@ -1,0 +1,48 @@
+.body {
+  margin-left: -1rem;
+  margin-top: 0.4rem;
+}
+.imgdiv {
+  margin-left: 0.4rem;
+  margin-right: 0.4rem;
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+}
+.outlines {
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+.outline {
+  font-size: 0.9rem;
+}
+.questtech {
+  margin-left: 0.5rem;
+  font-size: 0.9rem;
+}
+.allright {
+  margin-top: -1rem;
+  font-size: 0.9rem;
+}
+.version {
+  margin-top: 5rem;
+  font-size: 0.9rem;
+}
+.aboutdiv {
+  margin-bottom: 1rem;
+  margin-top: -1rem;
+  font-size: 0.9rem;
+}
+.divp {
+  margin-left: 1rem;
+  cursor: pointer;
+}
+.diva {
+  cursor: pointer;
+}
+.myshadow {
+  box-shadow: -1px 3px 8px 3px rgba(197, 235, 237, 0.5);
+}
+
+.imgwidth {
+  width: 100%;
+}

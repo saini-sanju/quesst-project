@@ -1,0 +1,48 @@
+{
+  "feeds": [
+    {
+      "id": 1,
+      "views": 0,
+      "status": "Unanswered 1",
+      "content": "quesst -1",
+      "reactions": {
+        "comments": ["answer1", "answer2", "sanju1"],
+        "likes": 0,
+        "notifications": 0
+      }
+    },
+    {
+      "id": 2,
+      "views": 0,
+      "status": "Ongoing",
+      "content": "quesst1",
+      "reactions": {
+        "comments": [],
+        "likes": 1,
+        "notifications": 0
+      }
+    },
+    {
+      "id": 3,
+      "views": 2,
+      "status": "Ongoing",
+      "content": "quesst1",
+      "reactions": {
+        "comments": ["hello", "hii"],
+        "likes": 4,
+        "notifications": 0
+      }
+    },
+    {
+      "id": 4,
+      "views": 2,
+      "status": "Unanswered",
+      "content": "quesst1",
+      "reactions": {
+        "comments": ["hello", "hii"],
+        "likes": 14,
+        "notifications": 14
+      }
+    }
+  ]
+}

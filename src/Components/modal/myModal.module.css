@@ -1,0 +1,100 @@
+.test {
+  margin-top: -0.7rem;
+}
+.iconbody {
+  margin-left: -1rem;
+  margin-top: 1rem;
+}
+.logodiv {
+  width: 40px;
+  height: 40px;
+  background-color: rgb(227, 227, 230);
+}
+.malikp {
+  margin-top: -2.5rem;
+  margin-left: 4rem;
+  font-size: small;
+}
+.icon {
+  margin-right: 1rem;
+  margin-top: -1.3rem;
+  font-size: large;
+}
+.icons {
+  margin-right: 1.5rem;
+}
+.people {
+  margin-left: 4.5rem;
+  margin-top: -1rem;
+  font-size: 0.9rem;
+}
+.bodydiv {
+  margin-bottom: -1rem;
+  margin-left: 1rem;
+  margin-top: -1rem;
+}
+.answerdiv {
+  margin-left: 4rem;
+  margin-top: -2rem;
+}
+.mldiv {
+  margin-left: 4rem;
+  font-size: small;
+}
+.authordiv {
+  font-size: 0.7rem;
+}
+.founddiv {
+  margin-left: 4rem;
+  margin-top: -1rem;
+  font-size: 0.9rem;
+  font-size: small;
+}
+.icons {
+  margin-right: 1rem;
+  margin-top: -1.3rem;
+}
+.hthumb {
+  margin-right: 1.5rem;
+}
+.daydiv {
+  font-size: small;
+}
+
+.foter {
+  width: 100%;
+  border: none;
+  margin-top: 1rem;
+}
+.btndiv {
+  background-color: aqua;
+  width: 100%;
+}
+.pdiv {
+  color: blue;
+  margin-left: 22rem;
+  margin-top: 1rem;
+}
+.pdiv1 {
+  color: blue;
+  margin-left: 1rem;
+  margin-top: 1rem;
+}
+.bdiv {
+  margin-top: -1rem;
+}
+.ongoing {
+  margin-left: 1rem;
+  margin-top: -1.5rem;
+  margin-bottom: -1rem;
+}
+.modalHeader {
+  border: none; /* Remove the border */
+}
+.modalTitle {
+  border: none; /* Remove the border */
+}
+.mychat {
+  position: absolute;
+  margin-right: 1rem !important;
+}

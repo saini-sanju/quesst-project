@@ -1,0 +1,62 @@
+.bodyshadow {
+  box-shadow: -1px 3px 8px 3px rgba(197, 235, 237, 0.5);
+}
+.bookMarkIcon {
+  margin-right: 1rem;
+  margin-top: -0.6rem;
+}
+.statusp {
+  padding-top: 1rem;
+  margin-left: 1rem;
+}
+.contentp {
+  font-weight: bolder;
+  margin-left: 1rem;
+  margin-top: -1rem;
+}
+.logobody {
+  width: 45px;
+  height: 45px;
+  background-color: rgb(227, 227, 230);
+}
+.logodiv {
+  margin-top: -2.5rem;
+  margin-left: 4.5rem;
+  font-size: 0.7rem;
+}
+.icondiv {
+  margin-right: 1rem;
+  margin-top: -1.5rem;
+  font-size: 0.8rem;
+}
+.smcount {
+  margin-right: 0.5rem;
+  font-size: smaller;
+}
+.chat {
+  margin-right: 1.5rem;
+}
+.people {
+  margin-left: 4.5rem;
+  margin-top: -1rem;
+  font-size: 0.8rem;
+}
+.hrdiv {
+  margin-bottom: -1.5rem;
+}
+.sdiv {
+  padding-bottom: -3rem;
+}
+.chatIcond {
+  margin-left: 3rem;
+}
+.bellIcon {
+  margin-right: 1rem;
+}
+.dotIcon {
+  margin-right: 1rem;
+}
+.btn {
+  border: none;
+  background-color: white;
+}

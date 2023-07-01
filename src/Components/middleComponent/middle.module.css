@@ -1,0 +1,27 @@
+.bodydiv {
+  border: none !important;
+  box-shadow: -1px 3px 8px 3px rgba(197, 235, 237, 0.5);
+}
+.head {
+  font-size: 1.5rem;
+  margin-top: 0.5rem;
+}
+.headGear {
+  margin-right: 0.9rem;
+  margin-top: 0.5rem;
+}
+.bodysecond {
+  height: 3rem;
+  margin-top: 1rem;
+  box-shadow: -1px 3px 8px 3px rgba(197, 235, 237, 0.5);
+}
+.content {
+  padding-top: 0.4rem;
+}
+.flower {
+  margin-top: 1rem;
+}
+.books {
+  margin-right: 1rem;
+  margin-top: 0.2rem;
+}

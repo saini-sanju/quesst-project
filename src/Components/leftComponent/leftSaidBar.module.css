@@ -1,0 +1,83 @@
+.NavIcon {
+  width: 65px;
+  height: 65px;
+  background-color: rgb(227, 227, 230);
+}
+.ourstyle {
+  font-size: 1rem;
+}
+.oursty {
+  font-size: 0.7rem;
+}
+
+.tbstyle {
+  margin-top: -1rem;
+  margin-bottom: -1rem;
+}
+.tbsstyle {
+  margin-left: 0.5rem;
+}
+.mycard {
+  font-weight: bold;
+  font-size: 1rem;
+}
+.mycards {
+  margin-top: 0.3rem;
+}
+.smcard {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+}
+.listgroup {
+  margin-right: 1rem;
+  margin-left: -2rem;
+}
+.card {
+  margin-left: 1rem;
+}
+a:link {
+  text-decoration: none;
+}
+.listgroup li {
+  margin: 0.6rem;
+  margin-left: 0.2rem;
+  font-size: 0.9rem;
+}
+.bottm {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.5rem;
+  margin-top: -0.7rem;
+  margin-bottom: -0.1rem;
+}
+.small {
+  margin-right: 1rem;
+}
+.small small {
+  display: flex;
+  font-size: 0.5rem;
+}
+.smallh {
+  font-size: 0.9rem;
+}
+
+.myshadow {
+  @media only screen and (max-width: 768px) {
+    box-shadow: none;
+  }
+  box-shadow: -1px 3px 8px 3px rgba(197, 235, 237, 0.5);
+  margin-right: -1rem;
+  margin-top: 0.6rem;
+}
+
+.mycards h5:hover {
+  background-color: lightpink !important;
+  font-weight: bolder;
+}
+.card ul li:hover {
+  background-color: lightpink;
+  font-weight: bolder;
+  display: block;
+  width: 100%;
+}
